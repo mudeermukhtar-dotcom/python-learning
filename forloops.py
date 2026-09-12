@@ -45,13 +45,7 @@ for i in range(1,n+1):
      continue
     else:
      print(i)'''
-#User se n input lo aur 1 se n tak numbers print karo.Lekin jaise hi 5 aaye, loop ko completely stop kar do.
-n=int(input("enter number"))
-for i in range(1,n+1):
-    if i==5:
-     break
-    else:
-       print(i)
+
 
    
 
